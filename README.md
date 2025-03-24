@@ -4,7 +4,7 @@ This is a simple static website hosted with GitHub Pages.
 
 ## Live Site
 
-[View it here](https://yourusername.github.io/your-repo-name)
+[View it here] https://guadeloupe33.github.io/Job-Board/
 
 ## How to Use
 
